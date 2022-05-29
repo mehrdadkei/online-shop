@@ -1,0 +1,12 @@
+body{
+    background-color: #afd0ff
+}
+
+.login{
+    margin-top: 15%;
+    border: solid 1px;
+    border-radius: 4%;
+    padding: 2%;
+    background: #fff;
+
+}
